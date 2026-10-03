@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Mehedi Hasan (@mx-cipher)
 
-<!--
-**mx-cipher/mx-cipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Web Developer** deeply passionate about **Artificial Intelligence (AI)**, **Automation**, and **Cyber Security**. I focus on building intelligent, scalable web applications while ensuring robust security and seamless automated workflows.
 
-Here are some ideas to get you started:
+###  What I Do:
+- **Full-Stack Development:** Crafting complete, dynamic, and secure web solutions.
+- **AI & Automation:** Integrating smart tech to optimize tasks and automate complex processes.
+- **Cyber Security:** Analyzing vulnerabilities and securing digital assets from threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Focus:
+- Web: Frontend & Backend Technologies
+- Smart Tech: AI Integration & Workflow Automation
+- Security: Penetration Testing & Secure Coding
+
+### Connect with me:
+- **LinkedIn:** [mx-cipher](https://www.linkedin.com/in/mx-cipher/)
+- **Facebook Page:** [mx.cipher](https://www.facebook.com/mx.cipher)
+- 
